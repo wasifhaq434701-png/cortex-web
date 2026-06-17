@@ -1,0 +1,15 @@
+# Cortex landing-page images.
+#
+# logo.png is the app icon (already here). Drop these screenshots beside it to
+# fill the gallery (16:9 PNGs look best). They reuse the app README's names, so
+# you can copy the same files from mind-palace/docs/images/:
+#
+#   graph-3d.png         — the 3D semantic knowledge graph
+#   chat-charts.png      — chat answer with an inline chart + code
+#   studio-ide.png       — Cortex Studio IDE
+#   document-studio.png  — the Quill document editor
+#   deep-research.png     — Deep Research streaming a report
+#   generative.png       — Generative Studio (PDF / PPTX / CSV)
+#   cookbook.png         — hardware-aware Model Cookbook
+#
+# Until a screenshot exists its tile shows an empty dark panel — harmless.
